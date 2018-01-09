@@ -1,0 +1,172 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "485.07",
+        "high": "518.28",
+        "low": "467.51",
+        "close": "511.98",
+        "volume": 46527600,
+        "marketcap": 6385230000,
+        "average": "492.89"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.005050",
+        "high": "0.005308",
+        "low": "0.004969",
+        "close": "0.005265",
+        "volume": 190557,
+        "marketcap": 41673800,
+        "average": "0.01"
+    },
+    {
+        "coin": "litecoin",
+        "open": "4.72",
+        "high": "5.69",
+        "low": "4.40",
+        "close": "5.45",
+        "volume": 10691200,
+        "marketcap": 147518000,
+        "average": "5.04"
+    },
+    {
+        "coin": "stellar",
+        "open": "0.002223",
+        "high": "0.002521",
+        "low": "0.002221",
+        "close": "0.002496",
+        "volume": 96584,
+        "marketcap": 2318890,
+        "average": "0.00"
+    },
+    {
+        "coin": "dash",
+        "open": "3.36",
+        "high": "3.91",
+        "low": "3.18",
+        "close": "3.81",
+        "volume": 722557,
+        "marketcap": 15377700,
+        "average": "3.54"
+    },
+    {
+        "coin": "monero",
+        "open": "1.66",
+        "high": "1.96",
+        "low": "1.61",
+        "close": "1.83",
+        "volume": 286655,
+        "marketcap": 4795780,
+        "average": "1.79"
+    },
+    {
+        "coin": "bytecoin-bcn",
+        "open": "0.000018",
+        "high": "0.000020",
+        "low": "0.000016",
+        "close": "0.000016",
+        "volume": 2696,
+        "marketcap": 2944160,
+        "average": "0.00"
+    },
+    {
+        "coin": "bitshares",
+        "open": "0.010784",
+        "high": "0.015204",
+        "low": "0.010673",
+        "close": "0.015204",
+        "volume": 501478,
+        "marketcap": 21566200,
+        "average": "0.01"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000114",
+        "high": "0.000132",
+        "low": "0.000114",
+        "close": "0.000130",
+        "volume": 260171,
+        "marketcap": 10298100,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000195",
+        "high": "0.000228",
+        "low": "0.000184",
+        "close": "0.000220",
+        "volume": 588,
+        "marketcap": 242141,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000096",
+        "high": "0.000116",
+        "low": "0.000093",
+        "close": "0.000098",
+        "volume": 132720,
+        "marketcap": 2595980,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.035257",
+        "high": "0.035469",
+        "low": "0.030929",
+        "close": "0.033267",
+        "volume": 99144,
+        "marketcap": 35256600,
+        "average": "0.03"
+    },
+    {
+        "coin": "maidsafecoin",
+        "open": "0.018289",
+        "high": "0.020993",
+        "low": "0.018288",
+        "close": "0.020777",
+        "volume": 5893,
+        "marketcap": 8276640,
+        "average": "0.02"
+    },
+    {
+        "coin": "digitalnote",
+        "open": "0.000092",
+        "high": "0.000100",
+        "low": "0.000074",
+        "close": "0.000095",
+        "volume": 11432,
+        "marketcap": 517100,
+        "average": "0.00"
+    },
+    {
+        "coin": "syscoin",
+        "open": "0.002039",
+        "high": "0.002977",
+        "low": "0.001787",
+        "close": "0.002977",
+        "volume": 84067,
+        "marketcap": 743804,
+        "average": "0.00"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.180082",
+        "high": "0.208029",
+        "low": "0.162480",
+        "close": "0.180731",
+        "volume": 12601,
+        "marketcap": 1997510,
+        "average": "0.19"
+    },
+    {
+        "coin": "bitcoindark",
+        "open": "2.18",
+        "high": "2.27",
+        "low": "2.00",
+        "close": "2.15",
+        "volume": 15372,
+        "marketcap": 2568980,
+        "average": "2.13"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "457.36",
+        "high": "457.93",
+        "low": "443.40",
+        "close": "449.38",
+        "volume": 10394200,
+        "marketcap": 5816390000,
+        "average": "450.66"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.005409",
+        "high": "0.005495",
+        "low": "0.005209",
+        "close": "0.005315",
+        "volume": 292881,
+        "marketcap": 42287000,
+        "average": "0.01"
+    },
+    {
+        "coin": "litecoin",
+        "open": "11.13",
+        "high": "11.13",
+        "low": "10.43",
+        "close": "10.50",
+        "volume": 3393190,
+        "marketcap": 311470000,
+        "average": "10.78"
+    },
+    {
+        "coin": "dash",
+        "open": "1.51",
+        "high": "1.54",
+        "low": "1.18",
+        "close": "1.35",
+        "volume": 171901,
+        "marketcap": 6343910,
+        "average": "1.36"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000504",
+        "high": "0.000505",
+        "low": "0.000478",
+        "close": "0.000482",
+        "volume": 540769,
+        "marketcap": 38013300,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000329",
+        "high": "0.000329",
+        "low": "0.000267",
+        "close": "0.000288",
+        "volume": 11027,
+        "marketcap": 352037,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000023",
+        "high": "0.000027",
+        "low": "0.000018",
+        "close": "0.000018",
+        "volume": 9382,
+        "marketcap": 505258,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.023038",
+        "high": "0.023551",
+        "low": "0.022369",
+        "close": "0.023129",
+        "volume": 37471,
+        "marketcap": 23038100,
+        "average": "0.02"
+    },
+    {
+        "coin": "maidsafecoin",
+        "open": "0.014077",
+        "high": "0.014488",
+        "low": "0.012043",
+        "close": "0.014334",
+        "volume": 8614,
+        "marketcap": 6370400,
+        "average": "0.01"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.043945",
+        "high": "0.045006",
+        "low": "0.041474",
+        "close": "0.043234",
+        "volume": 812,
+        "marketcap": 269886,
+        "average": "0.04"
+    }
+]

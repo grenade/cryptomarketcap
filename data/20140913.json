@@ -1,0 +1,172 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "477.79",
+        "high": "482.12",
+        "low": "475.10",
+        "close": "479.00",
+        "volume": 15588000,
+        "marketcap": 6335400000,
+        "average": "478.61"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.004708",
+        "high": "0.004737",
+        "low": "0.004678",
+        "close": "0.004706",
+        "volume": 131835,
+        "marketcap": 136491000,
+        "average": "0.00"
+    },
+    {
+        "coin": "litecoin",
+        "open": "5.39",
+        "high": "5.49",
+        "low": "5.33",
+        "close": "5.45",
+        "volume": 2376730,
+        "marketcap": 172425000,
+        "average": "5.41"
+    },
+    {
+        "coin": "stellar",
+        "open": "0.003032",
+        "high": "0.003198",
+        "low": "0.002945",
+        "close": "0.003094",
+        "volume": 111452,
+        "marketcap": 3539410,
+        "average": "0.00"
+    },
+    {
+        "coin": "dash",
+        "open": "2.85",
+        "high": "2.89",
+        "low": "2.77",
+        "close": "2.87",
+        "volume": 85324,
+        "marketcap": 13233400,
+        "average": "2.83"
+    },
+    {
+        "coin": "monero",
+        "open": "1.88",
+        "high": "1.89",
+        "low": "1.79",
+        "close": "1.85",
+        "volume": 156820,
+        "marketcap": 6365210,
+        "average": "1.84"
+    },
+    {
+        "coin": "bytecoin-bcn",
+        "open": "0.000018",
+        "high": "0.000019",
+        "low": "0.000017",
+        "close": "0.000017",
+        "volume": 5952,
+        "marketcap": 2855480,
+        "average": "0.00"
+    },
+    {
+        "coin": "bitshares",
+        "open": "0.038572",
+        "high": "0.039678",
+        "low": "0.036550",
+        "close": "0.037656",
+        "volume": 704233,
+        "marketcap": 77143400,
+        "average": "0.04"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000205",
+        "high": "0.000267",
+        "low": "0.000203",
+        "close": "0.000267",
+        "volume": 1435840,
+        "marketcap": 18881500,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000146",
+        "high": "0.000160",
+        "low": "0.000120",
+        "close": "0.000132",
+        "volume": 4716,
+        "marketcap": 215019,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000067",
+        "high": "0.000067",
+        "low": "0.000062",
+        "close": "0.000062",
+        "volume": 28880,
+        "marketcap": 1826230,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.042262",
+        "high": "0.042548",
+        "low": "0.040437",
+        "close": "0.041259",
+        "volume": 165897,
+        "marketcap": 42261400,
+        "average": "0.04"
+    },
+    {
+        "coin": "maidsafecoin",
+        "open": "0.019398",
+        "high": "0.019522",
+        "low": "0.018932",
+        "close": "0.019294",
+        "volume": 5350,
+        "marketcap": 8778750,
+        "average": "0.02"
+    },
+    {
+        "coin": "digitalnote",
+        "open": "0.000141",
+        "high": "0.000151",
+        "low": "0.000139",
+        "close": "0.000142",
+        "volume": 15375,
+        "marketcap": 862411,
+        "average": "0.00"
+    },
+    {
+        "coin": "syscoin",
+        "open": "0.001150",
+        "high": "0.001173",
+        "low": "0.001005",
+        "close": "0.001044",
+        "volume": 5718,
+        "marketcap": 424605,
+        "average": "0.00"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.136276",
+        "high": "0.142097",
+        "low": "0.121286",
+        "close": "0.125161",
+        "volume": 7681,
+        "marketcap": 1632280,
+        "average": "0.13"
+    },
+    {
+        "coin": "bitcoindark",
+        "open": "6.73",
+        "high": "6.79",
+        "low": "6.39",
+        "close": "6.66",
+        "volume": 28421,
+        "marketcap": 7963850,
+        "average": "6.59"
+    }
+]

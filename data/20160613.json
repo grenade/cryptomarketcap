@@ -1,0 +1,322 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "671.65",
+        "high": "716.00",
+        "low": "664.49",
+        "close": "704.38",
+        "volume": 243295000,
+        "marketcap": 10511900000,
+        "average": "690.25"
+    },
+    {
+        "coin": "ethereum",
+        "open": "15.77",
+        "high": "17.64",
+        "low": "15.72",
+        "close": "17.60",
+        "volume": 38023400,
+        "marketcap": 1276930000,
+        "average": "16.68"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.005852",
+        "high": "0.005856",
+        "low": "0.005765",
+        "close": "0.005824",
+        "volume": 1537720,
+        "marketcap": 204067000,
+        "average": "0.01"
+    },
+    {
+        "coin": "nem",
+        "open": "0.002093",
+        "high": "0.002300",
+        "low": "0.002059",
+        "close": "0.002219",
+        "volume": 126549,
+        "marketcap": 18838900,
+        "average": "0.00"
+    },
+    {
+        "coin": "litecoin",
+        "open": "5.41",
+        "high": "5.54",
+        "low": "5.16",
+        "close": "5.29",
+        "volume": 8668280,
+        "marketcap": 250146000,
+        "average": "5.35"
+    },
+    {
+        "coin": "stellar",
+        "open": "0.001620",
+        "high": "0.001641",
+        "low": "0.001543",
+        "close": "0.001561",
+        "volume": 37628,
+        "marketcap": 8888500,
+        "average": "0.00"
+    },
+    {
+        "coin": "dash",
+        "open": "7.65",
+        "high": "7.99",
+        "low": "7.46",
+        "close": "7.72",
+        "volume": 600793,
+        "marketcap": 49887200,
+        "average": "7.72"
+    },
+    {
+        "coin": "monero",
+        "open": "1.25",
+        "high": "1.37",
+        "low": "1.25",
+        "close": "1.28",
+        "volume": 276844,
+        "marketcap": 15197600,
+        "average": "1.31"
+    },
+    {
+        "coin": "lisk",
+        "open": "0.423907",
+        "high": "0.469719",
+        "low": "0.416775",
+        "close": "0.469521",
+        "volume": 3322740,
+        "marketcap": 42390700,
+        "average": "0.44"
+    },
+    {
+        "coin": "verge",
+        "open": "0.000020",
+        "high": "0.000028",
+        "low": "0.000020",
+        "close": "0.000021",
+        "volume": 2399,
+        "marketcap": 237550,
+        "average": "0.00"
+    },
+    {
+        "coin": "siacoin",
+        "open": "0.000590",
+        "high": "0.000660",
+        "low": "0.000570",
+        "close": "0.000647",
+        "volume": 1073960,
+        "marketcap": 8853470,
+        "average": "0.00"
+    },
+    {
+        "coin": "bytecoin-bcn",
+        "open": "0.000040",
+        "high": "0.000043",
+        "low": "0.000034",
+        "close": "0.000039",
+        "volume": 4425,
+        "marketcap": 7292530,
+        "average": "0.00"
+    },
+    {
+        "coin": "bitshares",
+        "open": "0.003942",
+        "high": "0.003964",
+        "low": "0.003626",
+        "close": "0.003653",
+        "volume": 176910,
+        "marketcap": 10099400,
+        "average": "0.00"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000270",
+        "high": "0.000306",
+        "low": "0.000269",
+        "close": "0.000298",
+        "volume": 827824,
+        "marketcap": 28278500,
+        "average": "0.00"
+    },
+    {
+        "coin": "tether",
+        "open": "1.00",
+        "high": "1.00",
+        "low": "1.00",
+        "close": "1.00",
+        "volume": 1673420,
+        "marketcap": 2951590,
+        "average": "1.00"
+    },
+    {
+        "coin": "steem",
+        "open": "0.375797",
+        "high": "0.446442",
+        "low": "0.371781",
+        "close": "0.387242",
+        "volume": 4609,
+        "marketcap": 20174500,
+        "average": "0.41"
+    },
+    {
+        "coin": "waves",
+        "open": "1.22",
+        "high": "1.65",
+        "low": "1.07",
+        "close": "1.32",
+        "volume": 79492,
+        "marketcap": null,
+        "average": "1.36"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000329",
+        "high": "0.000400",
+        "low": "0.000323",
+        "close": "0.000352",
+        "volume": 88827,
+        "marketcap": 2184280,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000040",
+        "high": "0.000043",
+        "low": "0.000034",
+        "close": "0.000040",
+        "volume": 2687,
+        "marketcap": 1135380,
+        "average": "0.00"
+    },
+    {
+        "coin": "decred",
+        "open": "1.61",
+        "high": "1.76",
+        "low": "1.58",
+        "close": "1.63",
+        "volume": 44252,
+        "marketcap": 3023120,
+        "average": "1.67"
+    },
+    {
+        "coin": "pivx",
+        "open": "0.002894",
+        "high": "0.003224",
+        "low": "0.002882",
+        "close": "0.003224",
+        "volume": 637,
+        "marketcap": 108983,
+        "average": "0.00"
+    },
+    {
+        "coin": "factom",
+        "open": "0.980378",
+        "high": "1.02",
+        "low": "0.966924",
+        "close": "1.01",
+        "volume": 307252,
+        "marketcap": 8581460,
+        "average": "0.99"
+    },
+    {
+        "coin": "nexus",
+        "open": "0.012339",
+        "high": "0.013089",
+        "low": "0.011369",
+        "close": "0.012558",
+        "volume": 742,
+        "marketcap": 472318,
+        "average": "0.01"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.007763",
+        "high": "0.008000",
+        "low": "0.006978",
+        "close": "0.007162",
+        "volume": 67916,
+        "marketcap": 7763390,
+        "average": "0.01"
+    },
+    {
+        "coin": "enigma",
+        "open": "0.005058",
+        "high": "0.005442",
+        "low": "0.005004",
+        "close": "0.005353",
+        "volume": 4,
+        "marketcap": 84,
+        "average": "0.01"
+    },
+    {
+        "coin": "maidsafecoin",
+        "open": "0.052038",
+        "high": "0.056317",
+        "low": "0.050201",
+        "close": "0.053262",
+        "volume": 551234,
+        "marketcap": 23550100,
+        "average": "0.05"
+    },
+    {
+        "coin": "digitalnote",
+        "open": "0.000109",
+        "high": "0.000115",
+        "low": "0.000101",
+        "close": "0.000110",
+        "volume": 6224,
+        "marketcap": 750674,
+        "average": "0.00"
+    },
+    {
+        "coin": "syscoin",
+        "open": "0.007354",
+        "high": "0.008307",
+        "low": "0.006720",
+        "close": "0.007680",
+        "volume": 81179,
+        "marketcap": 3152990,
+        "average": "0.01"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.058083",
+        "high": "0.063131",
+        "low": "0.057445",
+        "close": "0.062092",
+        "volume": 2573,
+        "marketcap": 1997160,
+        "average": "0.06"
+    },
+    {
+        "coin": "bitcoindark",
+        "open": "1.91",
+        "high": "2.23",
+        "low": "1.69",
+        "close": "1.81",
+        "volume": 11962,
+        "marketcap": 2427330,
+        "average": "1.96"
+    },
+    {
+        "coin": "paccoin",
+        "open": "1e-08",
+        "high": "1.2e-08",
+        "low": "1e-08",
+        "close": "1.1e-08",
+        "volume": 26,
+        "marketcap": null,
+        "average": "0.00"
+    },
+    {
+        "coin": "digixdao",
+        "open": "11.15",
+        "high": "15.29",
+        "low": "11.15",
+        "close": "14.50",
+        "volume": 255020,
+        "marketcap": 22307000,
+        "average": "13.22"
+    }
+]

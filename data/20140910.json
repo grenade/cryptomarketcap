@@ -1,0 +1,172 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "475.48",
+        "high": "487.47",
+        "low": "475.14",
+        "close": "479.36",
+        "volume": 22787800,
+        "marketcap": 6299070000,
+        "average": "481.31"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.004722",
+        "high": "0.004766",
+        "low": "0.004722",
+        "close": "0.004750",
+        "volume": 161440,
+        "marketcap": 136890000,
+        "average": "0.00"
+    },
+    {
+        "coin": "litecoin",
+        "open": "5.06",
+        "high": "5.41",
+        "low": "5.04",
+        "close": "5.34",
+        "volume": 4708510,
+        "marketcap": 161334000,
+        "average": "5.22"
+    },
+    {
+        "coin": "stellar",
+        "open": "0.002179",
+        "high": "0.002315",
+        "low": "0.002179",
+        "close": "0.002278",
+        "volume": 59878,
+        "marketcap": 2501190,
+        "average": "0.00"
+    },
+    {
+        "coin": "dash",
+        "open": "2.91",
+        "high": "2.95",
+        "low": "2.82",
+        "close": "2.82",
+        "volume": 61808,
+        "marketcap": 13508300,
+        "average": "2.88"
+    },
+    {
+        "coin": "monero",
+        "open": "1.77",
+        "high": "2.08",
+        "low": "1.76",
+        "close": "1.97",
+        "volume": 280005,
+        "marketcap": 5876080,
+        "average": "1.92"
+    },
+    {
+        "coin": "bytecoin-bcn",
+        "open": "0.000018",
+        "high": "0.000019",
+        "low": "0.000017",
+        "close": "0.000017",
+        "volume": 4707,
+        "marketcap": 2836530,
+        "average": "0.00"
+    },
+    {
+        "coin": "bitshares",
+        "open": "0.037061",
+        "high": "0.040865",
+        "low": "0.036295",
+        "close": "0.040865",
+        "volume": 908080,
+        "marketcap": 74122700,
+        "average": "0.04"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000194",
+        "high": "0.000196",
+        "low": "0.000184",
+        "close": "0.000186",
+        "volume": 486354,
+        "marketcap": 17836500,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000081",
+        "high": "0.000123",
+        "low": "0.000081",
+        "close": "0.000101",
+        "volume": 4973,
+        "marketcap": 115283,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000066",
+        "high": "0.000072",
+        "low": "0.000062",
+        "close": "0.000071",
+        "volume": 21516,
+        "marketcap": 1798630,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.036560",
+        "high": "0.039654",
+        "low": "0.036469",
+        "close": "0.039558",
+        "volume": 105838,
+        "marketcap": 36560300,
+        "average": "0.04"
+    },
+    {
+        "coin": "maidsafecoin",
+        "open": "0.019022",
+        "high": "0.019999",
+        "low": "0.019008",
+        "close": "0.019393",
+        "volume": 1701,
+        "marketcap": 8608270,
+        "average": "0.02"
+    },
+    {
+        "coin": "digitalnote",
+        "open": "0.000152",
+        "high": "0.000164",
+        "low": "0.000149",
+        "close": "0.000149",
+        "volume": 10809,
+        "marketcap": 925938,
+        "average": "0.00"
+    },
+    {
+        "coin": "syscoin",
+        "open": "0.001154",
+        "high": "0.001369",
+        "low": "0.001047",
+        "close": "0.001163",
+        "volume": 9129,
+        "marketcap": 425365,
+        "average": "0.00"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.156090",
+        "high": "0.161213",
+        "low": "0.128443",
+        "close": "0.130244",
+        "volume": 11399,
+        "marketcap": 1853280,
+        "average": "0.14"
+    },
+    {
+        "coin": "bitcoindark",
+        "open": "6.37",
+        "high": "6.69",
+        "low": "5.92",
+        "close": "6.69",
+        "volume": 132351,
+        "marketcap": 7537030,
+        "average": "6.30"
+    }
+]

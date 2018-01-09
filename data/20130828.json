@@ -1,0 +1,32 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "126.48",
+        "high": "127.32",
+        "low": "122.62",
+        "close": "122.62",
+        "volume": "-",
+        "marketcap": 1468960000,
+        "average": "124.97"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.006451",
+        "high": "0.006463",
+        "low": "0.006066",
+        "close": "0.006246",
+        "volume": "-",
+        "marketcap": 50433400,
+        "average": "0.01"
+    },
+    {
+        "coin": "litecoin",
+        "open": "2.58",
+        "high": "2.60",
+        "low": "2.51",
+        "close": "2.52",
+        "volume": "-",
+        "marketcap": 53333500,
+        "average": "2.55"
+    }
+]

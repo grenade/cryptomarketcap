@@ -1,0 +1,22 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "122.50",
+        "high": "123.62",
+        "low": "120.12",
+        "close": "122.00",
+        "volume": "-",
+        "marketcap": 1368910000,
+        "average": "121.87"
+    },
+    {
+        "coin": "litecoin",
+        "open": "3.31",
+        "high": "3.32",
+        "low": "3.15",
+        "close": "3.18",
+        "volume": "-",
+        "marketcap": 58962900,
+        "average": "3.23"
+    }
+]

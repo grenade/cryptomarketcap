@@ -1,0 +1,82 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "638.14",
+        "high": "639.53",
+        "low": "627.21",
+        "close": "628.80",
+        "volume": 11913800,
+        "marketcap": 7983980000,
+        "average": "633.37"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.014333",
+        "high": "0.014370",
+        "low": "0.014133",
+        "close": "0.014198",
+        "volume": 121852,
+        "marketcap": 112055000,
+        "average": "0.01"
+    },
+    {
+        "coin": "litecoin",
+        "open": "17.00",
+        "high": "17.06",
+        "low": "16.48",
+        "close": "16.59",
+        "volume": 4006980,
+        "marketcap": 451061000,
+        "average": "16.77"
+    },
+    {
+        "coin": "dash",
+        "open": "0.833380",
+        "high": "0.846080",
+        "low": "0.785160",
+        "close": "0.811341",
+        "volume": 26274,
+        "marketcap": 3057150,
+        "average": "0.82"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000868",
+        "high": "0.000890",
+        "low": "0.000856",
+        "close": "0.000867",
+        "volume": 991836,
+        "marketcap": 51950500,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000427",
+        "high": "0.000696",
+        "low": "0.000427",
+        "close": "0.000559",
+        "volume": 59081,
+        "marketcap": 330041,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000043",
+        "high": "0.000258",
+        "low": "0.000026",
+        "close": "0.000054",
+        "volume": 23782,
+        "marketcap": 631836,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.040304",
+        "high": "0.042074",
+        "low": "0.040038",
+        "close": "0.040754",
+        "volume": 84599,
+        "marketcap": 40304100,
+        "average": "0.04"
+    }
+]

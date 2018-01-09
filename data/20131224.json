@@ -1,0 +1,52 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "672.36",
+        "high": "684.39",
+        "low": "645.71",
+        "close": "665.58",
+        "volume": "-",
+        "marketcap": 8179730000,
+        "average": "665.05"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.023698",
+        "high": "0.024124",
+        "low": "0.022305",
+        "close": "0.022575",
+        "volume": "-",
+        "marketcap": 185269000,
+        "average": "0.02"
+    },
+    {
+        "coin": "litecoin",
+        "open": "17.81",
+        "high": "18.11",
+        "low": "17.09",
+        "close": "17.64",
+        "volume": "-",
+        "marketcap": 431173000,
+        "average": "17.60"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000450",
+        "high": "0.000913",
+        "low": "0.000450",
+        "close": "0.000686",
+        "volume": "-",
+        "marketcap": 5636240,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.030488",
+        "high": "0.044188",
+        "low": "0.027665",
+        "close": "0.038054",
+        "volume": "-",
+        "marketcap": 30487700,
+        "average": "0.04"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "coin": "bitcoin",
+        "open": "420.89",
+        "high": "439.61",
+        "low": "415.79",
+        "close": "421.12",
+        "volume": 19226500,
+        "marketcap": 5317310000,
+        "average": "427.70"
+    },
+    {
+        "coin": "ripple",
+        "open": "0.006581",
+        "high": "0.006746",
+        "low": "0.006229",
+        "close": "0.006257",
+        "volume": 182421,
+        "marketcap": 51449100,
+        "average": "0.01"
+    },
+    {
+        "coin": "litecoin",
+        "open": "10.90",
+        "high": "11.56",
+        "low": "10.59",
+        "close": "10.66",
+        "volume": 7740060,
+        "marketcap": 298698000,
+        "average": "11.07"
+    },
+    {
+        "coin": "dash",
+        "open": "0.548831",
+        "high": "0.591372",
+        "low": "0.535384",
+        "close": "0.571875",
+        "volume": 18959,
+        "marketcap": 2191980,
+        "average": "0.56"
+    },
+    {
+        "coin": "dogecoin",
+        "open": "0.000441",
+        "high": "0.000448",
+        "low": "0.000417",
+        "close": "0.000420",
+        "volume": 503227,
+        "marketcap": 30628900,
+        "average": "0.00"
+    },
+    {
+        "coin": "digibyte",
+        "open": "0.000185",
+        "high": "0.000227",
+        "low": "0.000174",
+        "close": "0.000194",
+        "volume": 5530,
+        "marketcap": 178902,
+        "average": "0.00"
+    },
+    {
+        "coin": "reddcoin",
+        "open": "0.000017",
+        "high": "0.000021",
+        "low": "0.000013",
+        "close": "0.000017",
+        "volume": 6785,
+        "marketcap": 311027,
+        "average": "0.00"
+    },
+    {
+        "coin": "nxt",
+        "open": "0.023263",
+        "high": "0.037212",
+        "low": "0.021982",
+        "close": "0.023118",
+        "volume": 24041,
+        "marketcap": 23262900,
+        "average": "0.03"
+    },
+    {
+        "coin": "monacoin",
+        "open": "0.057670",
+        "high": "0.061030",
+        "low": "0.052604",
+        "close": "0.052651",
+        "volume": 1839,
+        "marketcap": 299113,
+        "average": "0.06"
+    }
+]
