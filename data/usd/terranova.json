@@ -1,0 +1,1802 @@
+[
+    {
+        "volume": "122765",
+        "average": "207.25",
+        "high": "362.67",
+        "low": "51.82",
+        "marketcap": "",
+        "date": "20180110",
+        "close": "62.06",
+        "open": "351.28"
+    },
+    {
+        "volume": "115715",
+        "average": "231.31",
+        "high": "400.33",
+        "low": "62.30",
+        "marketcap": "",
+        "date": "20180109",
+        "close": "287.56",
+        "open": "71.03"
+    },
+    {
+        "volume": "114563",
+        "average": "57.73",
+        "high": "72.70",
+        "low": "42.75",
+        "marketcap": "",
+        "date": "20180108",
+        "close": "71.22",
+        "open": "52.19"
+    },
+    {
+        "volume": "85840",
+        "average": "192.73",
+        "high": "345.08",
+        "low": "40.38",
+        "marketcap": "",
+        "date": "20180107",
+        "close": "52.12",
+        "open": "140.11"
+    },
+    {
+        "volume": "27498",
+        "average": "1136.42",
+        "high": "2213.31",
+        "low": "59.54",
+        "marketcap": "",
+        "date": "20180106",
+        "close": "149.60",
+        "open": "2213.31"
+    },
+    {
+        "volume": "4083",
+        "average": "2108.50",
+        "high": "2582.83",
+        "low": "1634.17",
+        "marketcap": "",
+        "date": "20180105",
+        "close": "2211.10",
+        "open": "2582.83"
+    },
+    {
+        "volume": "25939",
+        "average": "2619.39",
+        "high": "2951.54",
+        "low": "2287.25",
+        "marketcap": "",
+        "date": "20180104",
+        "close": "2583.38",
+        "open": "2312.08"
+    },
+    {
+        "volume": "11476",
+        "average": "1273.37",
+        "high": "2521.07",
+        "low": "25.67",
+        "marketcap": "",
+        "date": "20180103",
+        "close": "2301.04",
+        "open": "39.47"
+    },
+    {
+        "volume": "2706",
+        "average": "28.78",
+        "high": "39.84",
+        "low": "17.72",
+        "marketcap": "",
+        "date": "20180102",
+        "close": "39.31",
+        "open": "18.16"
+    },
+    {
+        "volume": "1727",
+        "average": "19.06",
+        "high": "21.20",
+        "low": "16.92",
+        "marketcap": "",
+        "date": "20180101",
+        "close": "18.17",
+        "open": "18.27"
+    },
+    {
+        "volume": "2146",
+        "average": "20.36",
+        "high": "23.35",
+        "low": "17.37",
+        "marketcap": "",
+        "date": "20171231",
+        "close": "18.22",
+        "open": "18.38"
+    },
+    {
+        "volume": "5975",
+        "average": "17.84",
+        "high": "21.73",
+        "low": "13.96",
+        "marketcap": "",
+        "date": "20171230",
+        "close": "18.59",
+        "open": "21.14"
+    },
+    {
+        "volume": "8389",
+        "average": "21.27",
+        "high": "23.74",
+        "low": "18.80",
+        "marketcap": "",
+        "date": "20171229",
+        "close": "21.19",
+        "open": "19.18"
+    },
+    {
+        "volume": "4574",
+        "average": "20.47",
+        "high": "22.65",
+        "low": "18.29",
+        "marketcap": "",
+        "date": "20171228",
+        "close": "18.98",
+        "open": "22.58"
+    },
+    {
+        "volume": "19697",
+        "average": "23.50",
+        "high": "28.08",
+        "low": "18.93",
+        "marketcap": "",
+        "date": "20171227",
+        "close": "22.62",
+        "open": "20.53"
+    },
+    {
+        "volume": "23500",
+        "average": "18.36",
+        "high": "23.69",
+        "low": "13.02",
+        "marketcap": "",
+        "date": "20171226",
+        "close": "20.52",
+        "open": "14.63"
+    },
+    {
+        "volume": "11581",
+        "average": "16.18",
+        "high": "21.54",
+        "low": "10.81",
+        "marketcap": "",
+        "date": "20171225",
+        "close": "14.64",
+        "open": "14.82"
+    },
+    {
+        "volume": "7795",
+        "average": "12.38",
+        "high": "15.94",
+        "low": "8.82",
+        "marketcap": "",
+        "date": "20171224",
+        "close": "11.41",
+        "open": "10.27"
+    },
+    {
+        "volume": "7036",
+        "average": "11.57",
+        "high": "14.62",
+        "low": "8.52",
+        "marketcap": "",
+        "date": "20171223",
+        "close": "10.15",
+        "open": "9.09"
+    },
+    {
+        "volume": "3683",
+        "average": "8.77",
+        "high": "10.41",
+        "low": "7.12",
+        "marketcap": "",
+        "date": "20171222",
+        "close": "9.01",
+        "open": "10.33"
+    },
+    {
+        "volume": "5947",
+        "average": "10.05",
+        "high": "11.58",
+        "low": "8.53",
+        "marketcap": "",
+        "date": "20171221",
+        "close": "10.29",
+        "open": "10.71"
+    },
+    {
+        "volume": "1327",
+        "average": "10.78",
+        "high": "12.93",
+        "low": "8.63",
+        "marketcap": "",
+        "date": "20171220",
+        "close": "10.70",
+        "open": "12.93"
+    },
+    {
+        "volume": "3156",
+        "average": "12.29",
+        "high": "14.73",
+        "low": "9.84",
+        "marketcap": "",
+        "date": "20171219",
+        "close": "12.95",
+        "open": "12.73"
+    },
+    {
+        "volume": "3397",
+        "average": "13.71",
+        "high": "16.35",
+        "low": "11.07",
+        "marketcap": "",
+        "date": "20171218",
+        "close": "12.74",
+        "open": "16.35"
+    },
+    {
+        "volume": "4592",
+        "average": "15.52",
+        "high": "18.54",
+        "low": "12.50",
+        "marketcap": "",
+        "date": "20171217",
+        "close": "16.32",
+        "open": "15.96"
+    },
+    {
+        "volume": "13155",
+        "average": "15.69",
+        "high": "22.01",
+        "low": "9.37",
+        "marketcap": "",
+        "date": "20171216",
+        "close": "16.12",
+        "open": "9.61"
+    },
+    {
+        "volume": "2627",
+        "average": "10.09",
+        "high": "11.91",
+        "low": "8.28",
+        "marketcap": "",
+        "date": "20171215",
+        "close": "8.82",
+        "open": "9.78"
+    },
+    {
+        "volume": "5759",
+        "average": "11.89",
+        "high": "14.02",
+        "low": "9.77",
+        "marketcap": "",
+        "date": "20171214",
+        "close": "9.79",
+        "open": "12.87"
+    },
+    {
+        "volume": "9201",
+        "average": "14.38",
+        "high": "17.64",
+        "low": "11.11",
+        "marketcap": "",
+        "date": "20171213",
+        "close": "12.79",
+        "open": "16.27"
+    },
+    {
+        "volume": "16753",
+        "average": "18.48",
+        "high": "22.16",
+        "low": "14.79",
+        "marketcap": "",
+        "date": "20171212",
+        "close": "16.25",
+        "open": "21.61"
+    },
+    {
+        "volume": "50841",
+        "average": "21.57",
+        "high": "32.28",
+        "low": "10.85",
+        "marketcap": "",
+        "date": "20171211",
+        "close": "21.54",
+        "open": "14.27"
+    },
+    {
+        "volume": "86222",
+        "average": "22.50",
+        "high": "39.51",
+        "low": "5.49",
+        "marketcap": "",
+        "date": "20171210",
+        "close": "14.37",
+        "open": "6.96"
+    },
+    {
+        "volume": "8224",
+        "average": "5.98",
+        "high": "6.96",
+        "low": "5.00",
+        "marketcap": "",
+        "date": "20171209",
+        "close": "6.93",
+        "open": "5.64"
+    },
+    {
+        "volume": "13097",
+        "average": "4.49",
+        "high": "5.77",
+        "low": "3.21",
+        "marketcap": "",
+        "date": "20171208",
+        "close": "5.64",
+        "open": "4.51"
+    },
+    {
+        "volume": "7442",
+        "average": "3.67",
+        "high": "4.51",
+        "low": "2.83",
+        "marketcap": "",
+        "date": "20171207",
+        "close": "4.51",
+        "open": "3.68"
+    },
+    {
+        "volume": "4758",
+        "average": "2.93",
+        "high": "4.42",
+        "low": "1.44",
+        "marketcap": "",
+        "date": "20171206",
+        "close": "3.67",
+        "open": "1.44"
+    },
+    {
+        "volume": "2282",
+        "average": "1.71",
+        "high": "1.97",
+        "low": "1.44",
+        "marketcap": "",
+        "date": "20171205",
+        "close": "1.45",
+        "open": "1.92"
+    },
+    {
+        "volume": "892",
+        "average": "3.06",
+        "high": "4.44",
+        "low": "1.68",
+        "marketcap": "",
+        "date": "20171204",
+        "close": "1.92",
+        "open": "1.73"
+    },
+    {
+        "volume": "269",
+        "average": "1.82",
+        "high": "2.03",
+        "low": "1.62",
+        "marketcap": "",
+        "date": "20171203",
+        "close": "1.73",
+        "open": "1.84"
+    },
+    {
+        "volume": "172",
+        "average": "1.74",
+        "high": "1.86",
+        "low": "1.62",
+        "marketcap": "",
+        "date": "20171202",
+        "close": "1.84",
+        "open": "1.70"
+    },
+    {
+        "volume": "216",
+        "average": "1.95",
+        "high": "2.16",
+        "low": "1.73",
+        "marketcap": "",
+        "date": "20171201",
+        "close": "1.76",
+        "open": "1.96"
+    },
+    {
+        "volume": "2746",
+        "average": "1.50",
+        "high": "2.40",
+        "low": "0.607880",
+        "marketcap": "",
+        "date": "20171130",
+        "close": "1.97",
+        "open": "2.21"
+    },
+    {
+        "volume": "13988",
+        "average": "2.25",
+        "high": "2.57",
+        "low": "1.94",
+        "marketcap": "",
+        "date": "20171129",
+        "close": "2.17",
+        "open": "1.94"
+    },
+    {
+        "volume": "127891",
+        "average": "2.31",
+        "high": "2.77",
+        "low": "1.85",
+        "marketcap": "",
+        "date": "20171128",
+        "close": "1.94",
+        "open": "1.86"
+    },
+    {
+        "volume": "38845",
+        "average": "2.19",
+        "high": "2.53",
+        "low": "1.86",
+        "marketcap": "",
+        "date": "20171127",
+        "close": "1.86",
+        "open": "2.34"
+    },
+    {
+        "volume": "85859",
+        "average": "2.62",
+        "high": "2.98",
+        "low": "2.25",
+        "marketcap": "",
+        "date": "20171126",
+        "close": "2.34",
+        "open": "2.45"
+    },
+    {
+        "volume": "19358",
+        "average": "2.54",
+        "high": "3.01",
+        "low": "2.06",
+        "marketcap": "",
+        "date": "20171125",
+        "close": "2.46",
+        "open": "2.21"
+    },
+    {
+        "volume": "11125",
+        "average": "2.43",
+        "high": "2.81",
+        "low": "2.05",
+        "marketcap": "",
+        "date": "20171124",
+        "close": "2.21",
+        "open": "2.43"
+    },
+    {
+        "volume": "61611",
+        "average": "2.96",
+        "high": "3.50",
+        "low": "2.43",
+        "marketcap": "",
+        "date": "20171123",
+        "close": "2.43",
+        "open": "3.09"
+    },
+    {
+        "volume": "73570",
+        "average": "2.93",
+        "high": "3.45",
+        "low": "2.41",
+        "marketcap": "",
+        "date": "20171122",
+        "close": "2.56",
+        "open": "2.52"
+    },
+    {
+        "volume": "177238",
+        "average": "3.16",
+        "high": "4.12",
+        "low": "2.20",
+        "marketcap": "",
+        "date": "20171121",
+        "close": "2.52",
+        "open": "2.76"
+    },
+    {
+        "volume": "65270",
+        "average": "3.93",
+        "high": "5.51",
+        "low": "2.36",
+        "marketcap": "",
+        "date": "20171120",
+        "close": "3.38",
+        "open": "3.34"
+    },
+    {
+        "volume": "67883",
+        "average": "4.04",
+        "high": "5.34",
+        "low": "2.73",
+        "marketcap": "",
+        "date": "20171119",
+        "close": "3.34",
+        "open": "3.15"
+    },
+    {
+        "volume": "772",
+        "average": "3.04",
+        "high": "3.37",
+        "low": "2.72",
+        "marketcap": "",
+        "date": "20171118",
+        "close": "3.17",
+        "open": "3.16"
+    },
+    {
+        "volume": "38980",
+        "average": "3.85",
+        "high": "4.65",
+        "low": "3.04",
+        "marketcap": "",
+        "date": "20171117",
+        "close": "3.17",
+        "open": "3.35"
+    },
+    {
+        "volume": "886",
+        "average": "3.29",
+        "high": "3.44",
+        "low": "3.15",
+        "marketcap": "",
+        "date": "20171116",
+        "close": "3.36",
+        "open": "3.39"
+    },
+    {
+        "volume": "42303",
+        "average": "3.55",
+        "high": "4.31",
+        "low": "2.79",
+        "marketcap": "",
+        "date": "20171115",
+        "close": "3.38",
+        "open": "2.88"
+    },
+    {
+        "volume": "7117",
+        "average": "3.38",
+        "high": "4.03",
+        "low": "2.72",
+        "marketcap": "",
+        "date": "20171114",
+        "close": "2.88",
+        "open": "3.65"
+    },
+    {
+        "volume": "134173",
+        "average": "4.38",
+        "high": "5.44",
+        "low": "3.33",
+        "marketcap": "",
+        "date": "20171113",
+        "close": "3.65",
+        "open": "3.80"
+    },
+    {
+        "volume": "91236",
+        "average": "5.55",
+        "high": "7.93",
+        "low": "3.17",
+        "marketcap": "",
+        "date": "20171112",
+        "close": "3.87",
+        "open": "4.61"
+    },
+    {
+        "volume": "18469",
+        "average": "4.22",
+        "high": "5.43",
+        "low": "3.01",
+        "marketcap": "",
+        "date": "20171111",
+        "close": "4.62",
+        "open": "3.02"
+    },
+    {
+        "volume": "10166",
+        "average": "5.46",
+        "high": "7.89",
+        "low": "3.03",
+        "marketcap": "",
+        "date": "20171110",
+        "close": "3.03",
+        "open": "7.68"
+    },
+    {
+        "volume": "36395",
+        "average": "4.97",
+        "high": "8.32",
+        "low": "1.62",
+        "marketcap": "",
+        "date": "20171109",
+        "close": "7.66",
+        "open": "1.70"
+    },
+    {
+        "volume": "472",
+        "average": "3.08",
+        "high": "4.62",
+        "low": "1.55",
+        "marketcap": "",
+        "date": "20171108",
+        "close": "1.71",
+        "open": "3.42"
+    },
+    {
+        "volume": "7",
+        "average": "3.41",
+        "high": "3.47",
+        "low": "3.35",
+        "marketcap": "",
+        "date": "20171107",
+        "close": "3.43",
+        "open": "3.35"
+    },
+    {
+        "volume": "13",
+        "average": "2.88",
+        "high": "3.45",
+        "low": "2.32",
+        "marketcap": "",
+        "date": "20171106",
+        "close": "3.35",
+        "open": "2.56"
+    },
+    {
+        "volume": "37",
+        "average": "2.95",
+        "high": "3.38",
+        "low": "2.52",
+        "marketcap": "",
+        "date": "20171105",
+        "close": "2.55",
+        "open": "2.99"
+    },
+    {
+        "volume": "23",
+        "average": "2.94",
+        "high": "3.04",
+        "low": "2.83",
+        "marketcap": "",
+        "date": "20171104",
+        "close": "2.99",
+        "open": "2.98"
+    },
+    {
+        "volume": "30",
+        "average": "2.96",
+        "high": "3.07",
+        "low": "2.86",
+        "marketcap": "",
+        "date": "20171103",
+        "close": "2.99",
+        "open": "2.89"
+    },
+    {
+        "volume": "2255",
+        "average": "3.75",
+        "high": "4.87",
+        "low": "2.62",
+        "marketcap": "",
+        "date": "20171102",
+        "close": "2.89",
+        "open": "2.62"
+    },
+    {
+        "volume": "78",
+        "average": "3.14",
+        "high": "3.70",
+        "low": "2.58",
+        "marketcap": "",
+        "date": "20171101",
+        "close": "2.62",
+        "open": "3.42"
+    },
+    {
+        "volume": "73",
+        "average": "3.76",
+        "high": "5.00",
+        "low": "2.53",
+        "marketcap": "",
+        "date": "20171031",
+        "close": "3.43",
+        "open": "4.58"
+    },
+    {
+        "volume": "151",
+        "average": "4.03",
+        "high": "4.60",
+        "low": "3.45",
+        "marketcap": "",
+        "date": "20171030",
+        "close": "4.60",
+        "open": "3.68"
+    },
+    {
+        "volume": "331",
+        "average": "3.67",
+        "high": "4.74",
+        "low": "2.59",
+        "marketcap": "",
+        "date": "20171029",
+        "close": "3.49",
+        "open": "2.60"
+    },
+    {
+        "volume": "455",
+        "average": "2.96",
+        "high": "3.55",
+        "low": "2.38",
+        "marketcap": "",
+        "date": "20171028",
+        "close": "2.60",
+        "open": "3.48"
+    },
+    {
+        "volume": "23",
+        "average": "3.88",
+        "high": "4.35",
+        "low": "3.42",
+        "marketcap": "",
+        "date": "20171027",
+        "close": "3.47",
+        "open": "4.27"
+    },
+    {
+        "volume": "125",
+        "average": "3.84",
+        "high": "4.31",
+        "low": "3.38",
+        "marketcap": "",
+        "date": "20171026",
+        "close": "4.27",
+        "open": "3.43"
+    },
+    {
+        "volume": "457",
+        "average": "3.25",
+        "high": "3.51",
+        "low": "2.99",
+        "marketcap": "",
+        "date": "20171025",
+        "close": "3.44",
+        "open": "3.07"
+    },
+    {
+        "volume": "555",
+        "average": "3.95",
+        "high": "4.86",
+        "low": "3.03",
+        "marketcap": "",
+        "date": "20171024",
+        "close": "3.07",
+        "open": "3.84"
+    },
+    {
+        "volume": "685",
+        "average": "3.74",
+        "high": "4.04",
+        "low": "3.44",
+        "marketcap": "",
+        "date": "20171023",
+        "close": "3.85",
+        "open": "4.03"
+    },
+    {
+        "volume": "251",
+        "average": "4.22",
+        "high": "4.80",
+        "low": "3.64",
+        "marketcap": "",
+        "date": "20171022",
+        "close": "4.03",
+        "open": "4.75"
+    },
+    {
+        "volume": "1305",
+        "average": "4.80",
+        "high": "5.39",
+        "low": "4.22",
+        "marketcap": "",
+        "date": "20171021",
+        "close": "4.75",
+        "open": "5.26"
+    },
+    {
+        "volume": "4599",
+        "average": "4.80",
+        "high": "5.34",
+        "low": "4.26",
+        "marketcap": "",
+        "date": "20171020",
+        "close": "5.27",
+        "open": "5.12"
+    },
+    {
+        "volume": "4347",
+        "average": "4.88",
+        "high": "5.24",
+        "low": "4.53",
+        "marketcap": "",
+        "date": "20171019",
+        "close": "5.12",
+        "open": "5.20"
+    },
+    {
+        "volume": "106592",
+        "average": "5.01",
+        "high": "5.82",
+        "low": "4.19",
+        "marketcap": "",
+        "date": "20171018",
+        "close": "5.20",
+        "open": "5.11"
+    },
+    {
+        "volume": "76863",
+        "average": "5.67",
+        "high": "7.27",
+        "low": "4.08",
+        "marketcap": "",
+        "date": "20171017",
+        "close": "5.11",
+        "open": "5.60"
+    },
+    {
+        "volume": "180071",
+        "average": "10.45",
+        "high": "15.78",
+        "low": "5.12",
+        "marketcap": "",
+        "date": "20171016",
+        "close": "5.60",
+        "open": "5.70"
+    },
+    {
+        "volume": "30670",
+        "average": "7.47",
+        "high": "10.74",
+        "low": "4.20",
+        "marketcap": "",
+        "date": "20171015",
+        "close": "5.70",
+        "open": "5.79"
+    },
+    {
+        "volume": "51868",
+        "average": "6.84",
+        "high": "8.10",
+        "low": "5.58",
+        "marketcap": "",
+        "date": "20171014",
+        "close": "5.78",
+        "open": "7.27"
+    },
+    {
+        "volume": "159299",
+        "average": "21.41",
+        "high": "38.42",
+        "low": "4.40",
+        "marketcap": "",
+        "date": "20171013",
+        "close": "6.16",
+        "open": "9.44"
+    },
+    {
+        "volume": "70745",
+        "average": "28.66",
+        "high": "48.87",
+        "low": "8.45",
+        "marketcap": "",
+        "date": "20171012",
+        "close": "9.38",
+        "open": "26.05"
+    },
+    {
+        "volume": "101544",
+        "average": "21.52",
+        "high": "31.19",
+        "low": "11.84",
+        "marketcap": "",
+        "date": "20171011",
+        "close": "27.14",
+        "open": "14.66"
+    },
+    {
+        "volume": "1742",
+        "average": "11.53",
+        "high": "14.94",
+        "low": "8.12",
+        "marketcap": "",
+        "date": "20171010",
+        "close": "14.66",
+        "open": "8.15"
+    },
+    {
+        "volume": "71",
+        "average": "11.09",
+        "high": "14.06",
+        "low": "8.11",
+        "marketcap": "",
+        "date": "20171009",
+        "close": "8.15",
+        "open": "13.93"
+    },
+    {
+        "volume": "429",
+        "average": "19.05",
+        "high": "24.35",
+        "low": "13.76",
+        "marketcap": "",
+        "date": "20171008",
+        "close": "13.93",
+        "open": "15.54"
+    },
+    {
+        "volume": "324",
+        "average": "15.80",
+        "high": "17.38",
+        "low": "14.22",
+        "marketcap": "",
+        "date": "20171007",
+        "close": "15.59",
+        "open": "17.35"
+    },
+    {
+        "volume": "421",
+        "average": "20.71",
+        "high": "24.22",
+        "low": "17.21",
+        "marketcap": "",
+        "date": "20171006",
+        "close": "17.35",
+        "open": "23.61"
+    },
+    {
+        "volume": "33565",
+        "average": "15.63",
+        "high": "25.82",
+        "low": "5.44",
+        "marketcap": "",
+        "date": "20171005",
+        "close": "23.61",
+        "open": "5.52"
+    },
+    {
+        "volume": "6",
+        "average": "5.51",
+        "high": "5.57",
+        "low": "5.45",
+        "marketcap": "",
+        "date": "20171004",
+        "close": "5.52",
+        "open": "5.46"
+    },
+    {
+        "volume": "29",
+        "average": "15.85",
+        "high": "16.28",
+        "low": "15.41",
+        "marketcap": "",
+        "date": "20171003",
+        "close": "15.92",
+        "open": "16.19"
+    },
+    {
+        "volume": "156",
+        "average": "13.04",
+        "high": "16.27",
+        "low": "9.80",
+        "marketcap": "",
+        "date": "20171002",
+        "close": "16.18",
+        "open": "9.81"
+    },
+    {
+        "volume": "24",
+        "average": "9.31",
+        "high": "10.91",
+        "low": "7.72",
+        "marketcap": "",
+        "date": "20171001",
+        "close": "9.81",
+        "open": "10.86"
+    },
+    {
+        "volume": "120",
+        "average": "9.02",
+        "high": "10.90",
+        "low": "7.13",
+        "marketcap": "",
+        "date": "20170930",
+        "close": "10.86",
+        "open": "7.13"
+    },
+    {
+        "volume": "160",
+        "average": "10.55",
+        "high": "14.00",
+        "low": "7.10",
+        "marketcap": "",
+        "date": "20170929",
+        "close": "7.13",
+        "open": "13.90"
+    },
+    {
+        "volume": "295",
+        "average": "10.65",
+        "high": "13.97",
+        "low": "7.33",
+        "marketcap": "",
+        "date": "20170928",
+        "close": "13.91",
+        "open": "7.67"
+    },
+    {
+        "volume": "279",
+        "average": "9.39",
+        "high": "11.14",
+        "low": "7.64",
+        "marketcap": "",
+        "date": "20170927",
+        "close": "7.68",
+        "open": "9.25"
+    },
+    {
+        "volume": "93",
+        "average": "10.30",
+        "high": "12.00",
+        "low": "8.60",
+        "marketcap": "",
+        "date": "20170926",
+        "close": "9.28",
+        "open": "11.83"
+    },
+    {
+        "volume": "1569",
+        "average": "12.73",
+        "high": "13.72",
+        "low": "11.73",
+        "marketcap": "",
+        "date": "20170925",
+        "close": "11.83",
+        "open": "13.22"
+    },
+    {
+        "volume": "227",
+        "average": "19.14",
+        "high": "26.80",
+        "low": "11.49",
+        "marketcap": "",
+        "date": "20170924",
+        "close": "13.23",
+        "open": "26.80"
+    },
+    {
+        "volume": "2964",
+        "average": "19.04",
+        "high": "26.97",
+        "low": "11.10",
+        "marketcap": "",
+        "date": "20170923",
+        "close": "26.80",
+        "open": "11.21"
+    },
+    {
+        "volume": "41",
+        "average": "14.89",
+        "high": "18.56",
+        "low": "11.22",
+        "marketcap": "",
+        "date": "20170922",
+        "close": "11.24",
+        "open": "12.30"
+    },
+    {
+        "volume": "860",
+        "average": "22.47",
+        "high": "34.30",
+        "low": "10.64",
+        "marketcap": "",
+        "date": "20170921",
+        "close": "12.32",
+        "open": "33.24"
+    },
+    {
+        "volume": "153",
+        "average": "34.13",
+        "high": "35.91",
+        "low": "32.36",
+        "marketcap": "",
+        "date": "20170920",
+        "close": "33.40",
+        "open": "32.93"
+    },
+    {
+        "volume": "3211",
+        "average": "29.92",
+        "high": "33.19",
+        "low": "26.66",
+        "marketcap": "",
+        "date": "20170919",
+        "close": "32.98",
+        "open": "28.23"
+    },
+    {
+        "volume": "201",
+        "average": "32.28",
+        "high": "37.54",
+        "low": "27.03",
+        "marketcap": "",
+        "date": "20170918",
+        "close": "28.16",
+        "open": "29.87"
+    },
+    {
+        "volume": "32",
+        "average": "26.66",
+        "high": "30.75",
+        "low": "22.56",
+        "marketcap": "",
+        "date": "20170917",
+        "close": "29.93",
+        "open": "30.75"
+    },
+    {
+        "volume": "34",
+        "average": "30.59",
+        "high": "37.68",
+        "low": "23.50",
+        "marketcap": "",
+        "date": "20170916",
+        "close": "30.77",
+        "open": "32.24"
+    },
+    {
+        "volume": "234",
+        "average": "38.40",
+        "high": "46.57",
+        "low": "30.23",
+        "marketcap": "",
+        "date": "20170915",
+        "close": "31.93",
+        "open": "30.23"
+    },
+    {
+        "volume": "875",
+        "average": "32.56",
+        "high": "35.21",
+        "low": "29.92",
+        "marketcap": "",
+        "date": "20170914",
+        "close": "30.00",
+        "open": "34.52"
+    },
+    {
+        "volume": "60087",
+        "average": "53.26",
+        "high": "79.53",
+        "low": "26.99",
+        "marketcap": "",
+        "date": "20170913",
+        "close": "34.51",
+        "open": "37.81"
+    },
+    {
+        "volume": "1784",
+        "average": "33.72",
+        "high": "42.18",
+        "low": "25.26",
+        "marketcap": "",
+        "date": "20170912",
+        "close": "37.80",
+        "open": "25.26"
+    },
+    {
+        "volume": "71",
+        "average": "31.06",
+        "high": "40.51",
+        "low": "21.62",
+        "marketcap": "",
+        "date": "20170911",
+        "close": "25.27",
+        "open": "24.30"
+    },
+    {
+        "volume": "415",
+        "average": "36.26",
+        "high": "51.32",
+        "low": "21.19",
+        "marketcap": "",
+        "date": "20170910",
+        "close": "24.20",
+        "open": "21.73"
+    },
+    {
+        "volume": "7",
+        "average": "22.49",
+        "high": "23.95",
+        "low": "21.04",
+        "marketcap": "",
+        "date": "20170909",
+        "close": "21.71",
+        "open": "22.19"
+    },
+    {
+        "volume": "35",
+        "average": "20.99",
+        "high": "26.67",
+        "low": "15.31",
+        "marketcap": "",
+        "date": "20170908",
+        "close": "22.14",
+        "open": "15.39"
+    },
+    {
+        "volume": "73",
+        "average": "22.43",
+        "high": "29.61",
+        "low": "15.25",
+        "marketcap": "",
+        "date": "20170907",
+        "close": "15.40",
+        "open": "29.61"
+    },
+    {
+        "volume": "9",
+        "average": "30.09",
+        "high": "32.97",
+        "low": "27.20",
+        "marketcap": "",
+        "date": "20170906",
+        "close": "29.66",
+        "open": "30.94"
+    },
+    {
+        "volume": "1",
+        "average": "29.95",
+        "high": "31.49",
+        "low": "28.40",
+        "marketcap": "",
+        "date": "20170905",
+        "close": "30.90",
+        "open": "29.99"
+    },
+    {
+        "volume": "52",
+        "average": "27.23",
+        "high": "30.82",
+        "low": "23.64",
+        "marketcap": "",
+        "date": "20170904",
+        "close": "30.09",
+        "open": "24.03"
+    },
+    {
+        "volume": "291",
+        "average": "34.00",
+        "high": "44.76",
+        "low": "23.25",
+        "marketcap": "",
+        "date": "20170903",
+        "close": "24.03",
+        "open": "36.37"
+    },
+    {
+        "volume": "525",
+        "average": "31.52",
+        "high": "39.80",
+        "low": "23.25",
+        "marketcap": "",
+        "date": "20170902",
+        "close": "36.34",
+        "open": "39.33"
+    },
+    {
+        "volume": "543",
+        "average": "36.88",
+        "high": "40.17",
+        "low": "33.59",
+        "marketcap": "",
+        "date": "20170901",
+        "close": "39.28",
+        "open": "39.83"
+    },
+    {
+        "volume": "584",
+        "average": "35.23",
+        "high": "41.67",
+        "low": "28.80",
+        "marketcap": "",
+        "date": "20170831",
+        "close": "39.85",
+        "open": "40.26"
+    },
+    {
+        "volume": "1604",
+        "average": "43.48",
+        "high": "48.71",
+        "low": "38.24",
+        "marketcap": "",
+        "date": "20170830",
+        "close": "40.34",
+        "open": "41.09"
+    },
+    {
+        "volume": "4094",
+        "average": "41.17",
+        "high": "44.33",
+        "low": "38.01",
+        "marketcap": "",
+        "date": "20170829",
+        "close": "41.12",
+        "open": "41.69"
+    },
+    {
+        "volume": "43688",
+        "average": "58.99",
+        "high": "77.05",
+        "low": "40.94",
+        "marketcap": "",
+        "date": "20170828",
+        "close": "41.69",
+        "open": "47.81"
+    },
+    {
+        "volume": "43391",
+        "average": "46.05",
+        "high": "48.15",
+        "low": "43.96",
+        "marketcap": "",
+        "date": "20170827",
+        "close": "47.76",
+        "open": "45.56"
+    },
+    {
+        "volume": "1126",
+        "average": "45.70",
+        "high": "46.41",
+        "low": "45.00",
+        "marketcap": "",
+        "date": "20170826",
+        "close": "45.57",
+        "open": "46.29"
+    },
+    {
+        "volume": "44015",
+        "average": "38.91",
+        "high": "47.30",
+        "low": "30.53",
+        "marketcap": "",
+        "date": "20170825",
+        "close": "46.20",
+        "open": "41.56"
+    },
+    {
+        "volume": "112430",
+        "average": "41.73",
+        "high": "60.58",
+        "low": "22.89",
+        "marketcap": "",
+        "date": "20170824",
+        "close": "41.62",
+        "open": "29.09"
+    },
+    {
+        "volume": "21028",
+        "average": "41.16",
+        "high": "53.26",
+        "low": "29.07",
+        "marketcap": "",
+        "date": "20170823",
+        "close": "29.07",
+        "open": "46.76"
+    },
+    {
+        "volume": "9743",
+        "average": "49.40",
+        "high": "53.97",
+        "low": "44.83",
+        "marketcap": "",
+        "date": "20170822",
+        "close": "46.86",
+        "open": "53.41"
+    },
+    {
+        "volume": "39796",
+        "average": "70.07",
+        "high": "90.17",
+        "low": "49.97",
+        "marketcap": "",
+        "date": "20170821",
+        "close": "53.28",
+        "open": "85.81"
+    },
+    {
+        "volume": "57153",
+        "average": "77.66",
+        "high": "114.62",
+        "low": "40.69",
+        "marketcap": "",
+        "date": "20170820",
+        "close": "86.13",
+        "open": "49.65"
+    },
+    {
+        "volume": "899",
+        "average": "87.75",
+        "high": "127.04",
+        "low": "48.47",
+        "marketcap": "",
+        "date": "20170819",
+        "close": "49.88",
+        "open": "95.77"
+    },
+    {
+        "volume": "3636",
+        "average": "69.53",
+        "high": "79.26",
+        "low": "59.80",
+        "marketcap": "",
+        "date": "20170818",
+        "close": "79.23",
+        "open": "77.03"
+    },
+    {
+        "volume": "41374",
+        "average": "101.61",
+        "high": "129.03",
+        "low": "74.19",
+        "marketcap": "",
+        "date": "20170817",
+        "close": "74.20",
+        "open": "128.53"
+    },
+    {
+        "volume": "42594",
+        "average": "189.85",
+        "high": "239.11",
+        "low": "140.58",
+        "marketcap": "",
+        "date": "20170816",
+        "close": "153.26",
+        "open": "237.08"
+    },
+    {
+        "volume": "129884",
+        "average": "476.79",
+        "high": "729.28",
+        "low": "224.31",
+        "marketcap": "",
+        "date": "20170815",
+        "close": "236.82",
+        "open": "729.28"
+    },
+    {
+        "volume": "571378",
+        "average": "1192.79",
+        "high": "2123.35",
+        "low": "262.23",
+        "marketcap": "",
+        "date": "20170814",
+        "close": "727.33",
+        "open": "449.63"
+    },
+    {
+        "volume": "25096",
+        "average": "375.38",
+        "high": "456.39",
+        "low": "294.38",
+        "marketcap": "",
+        "date": "20170813",
+        "close": "449.35",
+        "open": "294.38"
+    },
+    {
+        "volume": "157",
+        "average": "272.12",
+        "high": "360.55",
+        "low": "183.70",
+        "marketcap": "",
+        "date": "20170812",
+        "close": "294.66",
+        "open": "339.43"
+    },
+    {
+        "volume": "428",
+        "average": "386.38",
+        "high": "453.18",
+        "low": "319.57",
+        "marketcap": "",
+        "date": "20170811",
+        "close": "339.69",
+        "open": "436.83"
+    },
+    {
+        "volume": "59619",
+        "average": "473.91",
+        "high": "659.93",
+        "low": "287.90",
+        "marketcap": "",
+        "date": "20170810",
+        "close": "436.85",
+        "open": "371.64"
+    },
+    {
+        "volume": "26715",
+        "average": "443.70",
+        "high": "548.47",
+        "low": "338.93",
+        "marketcap": "",
+        "date": "20170809",
+        "close": "371.61",
+        "open": "522.40"
+    },
+    {
+        "volume": "5110",
+        "average": "706.73",
+        "high": "1031.14",
+        "low": "382.32",
+        "marketcap": "",
+        "date": "20170808",
+        "close": "522.76",
+        "open": "517.57"
+    },
+    {
+        "volume": "43",
+        "average": "539.00",
+        "high": "569.37",
+        "low": "508.64",
+        "marketcap": "",
+        "date": "20170807",
+        "close": "517.17",
+        "open": "566.75"
+    },
+    {
+        "volume": "90",
+        "average": "573.14",
+        "high": "626.40",
+        "low": "519.88",
+        "marketcap": "",
+        "date": "20170806",
+        "close": "568.02",
+        "open": "623.28"
+    },
+    {
+        "volume": "487",
+        "average": "581.85",
+        "high": "636.06",
+        "low": "527.63",
+        "marketcap": "",
+        "date": "20170805",
+        "close": "623.28",
+        "open": "634.25"
+    },
+    {
+        "volume": "200",
+        "average": "626.62",
+        "high": "638.25",
+        "low": "615.00",
+        "marketcap": "",
+        "date": "20170804",
+        "close": "634.53",
+        "open": "619.40"
+    },
+    {
+        "volume": "4116",
+        "average": "669.52",
+        "high": "837.56",
+        "low": "501.49",
+        "marketcap": "",
+        "date": "20170803",
+        "close": "619.31",
+        "open": "566.82"
+    },
+    {
+        "volume": "1257",
+        "average": "628.69",
+        "high": "721.31",
+        "low": "536.08",
+        "marketcap": "",
+        "date": "20170802",
+        "close": "566.00",
+        "open": "573.64"
+    },
+    {
+        "volume": "26153",
+        "average": "650.26",
+        "high": "872.43",
+        "low": "428.09",
+        "marketcap": "",
+        "date": "20170801",
+        "close": "573.38",
+        "open": "858.37"
+    },
+    {
+        "volume": "26462",
+        "average": "975.53",
+        "high": "1383.48",
+        "low": "567.57",
+        "marketcap": "",
+        "date": "20170731",
+        "close": "857.94",
+        "open": "802.75"
+    },
+    {
+        "volume": "53",
+        "average": "914.65",
+        "high": "1568.33",
+        "low": "260.98",
+        "marketcap": "",
+        "date": "20170730",
+        "close": "802.49",
+        "open": "1522.12"
+    },
+    {
+        "volume": "1193",
+        "average": "896.09",
+        "high": "1538.97",
+        "low": "253.20",
+        "marketcap": "",
+        "date": "20170729",
+        "close": "1520.75",
+        "open": "1370.81"
+    },
+    {
+        "volume": "750",
+        "average": "1511.89",
+        "high": "1688.13",
+        "low": "1335.65",
+        "marketcap": "",
+        "date": "20170728",
+        "close": "1365.19",
+        "open": "1650.34"
+    },
+    {
+        "volume": "40269",
+        "average": "1737.97",
+        "high": "1943.44",
+        "low": "1532.50",
+        "marketcap": "",
+        "date": "20170727",
+        "close": "1644.75",
+        "open": "1669.73"
+    },
+    {
+        "volume": "88374",
+        "average": "1926.43",
+        "high": "2257.88",
+        "low": "1594.99",
+        "marketcap": "",
+        "date": "20170726",
+        "close": "1665.00",
+        "open": "1873.21"
+    },
+    {
+        "volume": "27555",
+        "average": "1885.80",
+        "high": "2324.13",
+        "low": "1447.46",
+        "marketcap": "",
+        "date": "20170725",
+        "close": "1872.40",
+        "open": "2163.30"
+    },
+    {
+        "volume": "307256",
+        "average": "2168.51",
+        "high": "2751.49",
+        "low": "1585.52",
+        "marketcap": "",
+        "date": "20170724",
+        "close": "2160.20",
+        "open": "1608.85"
+    },
+    {
+        "volume": "165",
+        "average": "1517.36",
+        "high": "1662.06",
+        "low": "1372.66",
+        "marketcap": "",
+        "date": "20170723",
+        "close": "1610.72",
+        "open": "1656.82"
+    },
+    {
+        "volume": "93",
+        "average": "1850.56",
+        "high": "2242.34",
+        "low": "1458.77",
+        "marketcap": "",
+        "date": "20170722",
+        "close": "1656.81",
+        "open": "1465.79"
+    },
+    {
+        "volume": "113",
+        "average": "1510.22",
+        "high": "1661.07",
+        "low": "1359.37",
+        "marketcap": "",
+        "date": "20170721",
+        "close": "1466.08",
+        "open": "1655.58"
+    },
+    {
+        "volume": "888",
+        "average": "1622.05",
+        "high": "2020.67",
+        "low": "1223.43",
+        "marketcap": "",
+        "date": "20170720",
+        "close": "1643.40",
+        "open": "1954.57"
+    },
+    {
+        "volume": "14258",
+        "average": "2346.10",
+        "high": "3418.00",
+        "low": "1274.20",
+        "marketcap": "",
+        "date": "20170719",
+        "close": "1959.75",
+        "open": "2060.17"
+    },
+    {
+        "volume": "38878",
+        "average": "2754.34",
+        "high": "3486.50",
+        "low": "2022.17",
+        "marketcap": "",
+        "date": "20170718",
+        "close": "2056.98",
+        "open": "3017.17"
+    },
+    {
+        "volume": "170217",
+        "average": "5130.52",
+        "high": "8069.23",
+        "low": "2191.82",
+        "marketcap": "",
+        "date": "20170717",
+        "close": "3009.55",
+        "open": "4552.90"
+    },
+    {
+        "volume": "242271",
+        "average": "5230.27",
+        "high": "7336.24",
+        "low": "3124.30",
+        "marketcap": "",
+        "date": "20170716",
+        "close": "4852.15",
+        "open": "4492.89"
+    },
+    {
+        "volume": "173276",
+        "average": "4343.82",
+        "high": "5811.46",
+        "low": "2876.18",
+        "marketcap": "",
+        "date": "20170715",
+        "close": "4739.32",
+        "open": "4447.62"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "volume": "",
+        "average": "125.02",
+        "high": "126.93",
+        "low": "123.10",
+        "marketcap": "1384780000",
+        "date": "20130523",
+        "close": "126.70",
+        "coin": "bitcoin",
+        "open": "123.80"
+    },
+    {
+        "volume": "",
+        "average": "3.14",
+        "high": "3.19",
+        "low": "3.09",
+        "marketcap": "55727000",
+        "date": "20130523",
+        "close": "3.18",
+        "coin": "litecoin",
+        "open": "3.12"
+    },
+    {
+        "volume": "",
+        "average": "0.22",
+        "high": "0.221521",
+        "low": "0.209222",
+        "marketcap": "3977880",
+        "date": "20130523",
+        "close": "0.216657",
+        "coin": "peercoin",
+        "open": "0.209222"
+    },
+    {
+        "volume": "",
+        "average": "0.15",
+        "high": "0.179209",
+        "low": "0.125684",
+        "marketcap": "1077150",
+        "date": "20130523",
+        "close": "0.155841",
+        "coin": "feathercoin",
+        "open": "0.163416"
+    },
+    {
+        "volume": "",
+        "average": "0.91",
+        "high": "0.945702",
+        "low": "0.881412",
+        "marketcap": "4985800",
+        "date": "20130523",
+        "close": "0.928711",
+        "coin": "namecoin",
+        "open": "0.888884"
+    },
+    {
+        "volume": "",
+        "average": "3.96",
+        "high": "4.06",
+        "low": "3.86",
+        "marketcap": "1108970",
+        "date": "20130523",
+        "close": "3.99",
+        "coin": "novacoin",
+        "open": "3.92"
+    },
+    {
+        "volume": "",
+        "average": "0.01",
+        "high": "0.011530",
+        "low": "0.008391",
+        "marketcap": "142553",
+        "date": "20130523",
+        "close": "0.009756",
+        "coin": "ixcoin",
+        "open": "0.011266"
+    },
+    {
+        "volume": "",
+        "average": "0.39",
+        "high": "0.399705",
+        "low": "0.372000",
+        "marketcap": "1001500",
+        "date": "20130523",
+        "close": "0.381367",
+        "coin": "terracoin",
+        "open": "0.378828"
+    },
+    {
+        "volume": "",
+        "average": "0.06",
+        "high": "0.071030",
+        "low": "0.050680",
+        "marketcap": "127793",
+        "date": "20130523",
+        "close": "0.050680",
+        "coin": "worldcoin",
+        "open": "0.068970"
+    },
+    {
+        "volume": "",
+        "average": "29.92",
+        "high": "34.27",
+        "low": "25.57",
+        "marketcap": "91067",
+        "date": "20130523",
+        "close": "25.61",
+        "coin": "bitbar",
+        "open": "29.84"
+    },
+    {
+        "volume": "",
+        "average": "0.18",
+        "high": "0.202844",
+        "low": "0.161383",
+        "marketcap": "201968",
+        "date": "20130523",
+        "close": "0.163316",
+        "coin": "mincoin",
+        "open": "0.189414"
+    },
+    {
+        "volume": "",
+        "average": "0.04",
+        "high": "0.041933",
+        "low": "0.035212",
+        "marketcap": "779034",
+        "date": "20130523",
+        "close": "0.038643",
+        "coin": "freicoin",
+        "open": "0.037388"
+    }
+]
